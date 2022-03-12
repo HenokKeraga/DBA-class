@@ -35,3 +35,8 @@ use ProgrammingSchool
 Go
 
 SELECT * from Student;
+
+
+create table  Family (
+    
+)
